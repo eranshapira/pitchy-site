@@ -1,10 +1,10 @@
 ---
 templateKey: home-page
-title: Pitchy - robotic piano tuning
+title: Pitchy - a pitch perfect experience.
 heading: 'Faster, Better, Now'
 description: >-
-  Tune pianos 10 times faster than conventional methods using automation,
-  deterministic behaviour, and machine learning based algorithms.
+  Tune your music instrument tenfold faster than conventional methods using
+  automation, deterministic behaviour, and machine learning based algorithms.
 offerings:
   blurbs:
     - image: /img/coffee.png
@@ -60,19 +60,16 @@ offerings:
 testimonials:
   - author: Vaibhav Sharma
     quote: >-
-      Donec scelerisque magna nec condimentum porttitor. Aliquam vel diam sed
-      diam luctus pretium.  Sed quis egestas libero. Vestibulum nec venenatis
-      ligula. 
+      This is mind blowing, I can provide my concert halls an instant piano
+      tuning session without planning ahead!
   - author: Subarashi San
     quote: >-
-      Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
-      dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
-      elit.
+      The accuracy of Pitchy is a game changer, I can manipulate the tuning of
+      my piano now without a need of a piano technician.
 meta_title: Home | Pitchy
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Automatically tune a piano with little effort, with literally zero knowledge
+  needed, with complete guidance from your smart device. the future is here, and
+  it's only just beginning.
 ---
 
