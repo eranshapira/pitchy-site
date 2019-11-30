@@ -34,9 +34,6 @@ const NavBar = ({toggleNavbar, isActive}) => (
             <Link className='navbar-item' to='/about'>
                             About
             </Link>
-            <Link className='navbar-item' to='/pricing'>
-                            Pricing
-            </Link>
             <Link className='navbar-item' to='/blog'>
                             Blog
             </Link>
